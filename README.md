@@ -7,7 +7,7 @@
 <a href='https://twitter.com/h3tson1' target="_blank"><img alt='twitter' src='https://img.shields.io/badge/twitter-100000?style=for-the-badge&logo=twitter&logoColor=white&labelColor=000000&color=289EE7'/></a>
 <a href='https://www.youtube.com/channel/UCIT6glDN1AhIM3XLe5OF5Gg' target="_blank"><img alt='youtube' src='https://img.shields.io/badge/youtube-100000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=000000&color=F40F0F'/></a>
 
-# 💻 Tech Stack:
+# 👨‍💻 Tech Stack:
 <a href='https://www.w3schools.com/cpp' target="_blank"><img alt='cplusplus' src='https://img.shields.io/badge/C++-100000?style=for-the-badge&logo=cplusplus&logoColor=white&labelColor=000000&color=00427E'/></a>
 <a href='https://www.w3schools.com/c/' target="_blank"><img alt='c' src='https://img.shields.io/badge/C-100000?style=for-the-badge&logo=c&logoColor=white&labelColor=000000&color=035697'/></a> 
 <a href='https://www.gnu.org/software/bash/' target="_blank"><img alt='gnu-bash' src='https://img.shields.io/badge/bash-100000?style=for-the-badge&logo=gnu-bash&logoColor=white&labelColor=000000&color=4EAA25'/></a>
