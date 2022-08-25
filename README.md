@@ -34,4 +34,4 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=hetsonii&icon=3&color=6)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=hetsonii&label=Profile%20Views&pretty=false)](https://visitcount.itsvg.in)
