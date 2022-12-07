@@ -6,6 +6,9 @@
 <a href='https://www.linkedin.com/in/het-soni/' target="_blank"><img alt='linkedin' src='https://img.shields.io/badge/linkedin-100000?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000&color=0F79B1'/></a>
 <a href='https://twitter.com/h3tson1' target="_blank"><img alt='twitter' src='https://img.shields.io/badge/twitter-100000?style=for-the-badge&logo=twitter&logoColor=white&labelColor=000000&color=289EE7'/></a>
 <a href='https://www.youtube.com/channel/UCIT6glDN1AhIM3XLe5OF5Gg' target="_blank"><img alt='youtube' src='https://img.shields.io/badge/youtube-100000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=000000&color=F40F0F'/></a>
+<br>
+<a href='https://tryhackme.com/p/hetsoni' target="_blank"><img src="https://tryhackme-badges.s3.amazonaws.com/hetsoni.png" alt="TryHackMe">
+
 
 ## 👨‍💻 Tech Stack:
 <a href='https://www.w3schools.com/cpp' target="_blank"><img alt='cplusplus' src='https://img.shields.io/badge/C++-100000?style=for-the-badge&logo=cplusplus&logoColor=white&labelColor=000000&color=00427E'/></a>
