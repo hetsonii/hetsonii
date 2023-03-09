@@ -1,5 +1,5 @@
 # 🔮 About Me:
-⚡ Passionate INFJ with Constant Development Trait, always seeking improvement and learning new things. I am pursuing BTech with specialization in Computer Science and Technology at Chandubhai S. Patel Institute Of Technology, Charusat University, Changa.<br><br>🌱 My passion for learning new IT technologies has me exploring Offensive Security, Computer Networks, Virtualization, and System .<br><br>🔭 I have been a mentee in Microsoft's Cybersecurity Engage 2022 Program. I'm learning RedHat from RedHat Academy and working on my computer Networking skills. I'm Actively Participating in CTF Events. <br><br>💬 I love socializing! Ping me for a chat.
+⚡ Passionate INTP Logician with Constant Development Trait, always seeking improvement and learning new things. I am pursuing BTech with specialization in Computer Science and Technology at Chandubhai S. Patel Institute Of Technology, Charusat University, Changa.<br><br>🌱 My passion for learning new IT technologies has me exploring Offensive Security, Computer Networks, Virtualization, and System .<br><br>🔭 I have been a mentee in Microsoft's Cybersecurity Engage 2022 Program. I'm learning RedHat from RedHat Academy and working on my computer Networking skills. I'm Actively Participating in CTF Events. <br><br>💬 I love socializing! Ping me for a chat.
 
 <br />
 
@@ -35,7 +35,6 @@
 <a href='' target="_blank"><img alt='asus' src='https://img.shields.io/badge/ROG-Strix_G15-100000?style=for-the-badge&logo=asus&logoColor=white&labelColor=000000&color=0071C5'/></a>
 <a href='' target="_blank"><img alt='amd' src='https://img.shields.io/badge/AMD-Ryzen_7 4800H-100000?style=for-the-badge&logo=amd&logoColor=white&labelColor=000000&color=ED1C24'/></a>
 <a href='' target="_blank"><img alt='nvidia' src='https://img.shields.io/badge/Nvidia-GTX_1650-100000?style=for-the-badge&logo=nvidia&logoColor=white&labelColor=000000&color=76B900'/></a>
-<a href='https://pop.system76.com/' target="_blank"><img alt='pop!_os' src='https://img.shields.io/badge/Pop!_OS-100000?style=for-the-badge&logo=pop!_os&logoColor=white&labelColor=000000&color=46B3C1'/></a>
 
 
 
