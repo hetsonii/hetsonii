@@ -47,6 +47,9 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=hetsonii&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
   
   
+![hetsonii's GitHub | Languages Over Time](https://stats.quine.sh/hetsonii/languages-over-time?theme=dark)
+![hetsonii's GitHub | Topics Over Time](https://stats.quine.sh/hetsonii/topics-over-time?theme=dark)
+  
 ### ✍️ Random Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
