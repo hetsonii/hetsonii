@@ -9,7 +9,7 @@
 <a href='https://twitter.com/hetsonii' target="_blank"><img alt='twitter' src='https://img.shields.io/badge/twitter-100000?style=for-the-badge&logo=twitter&logoColor=white&labelColor=000000&color=289EE7'/></a>
 <a href='https://www.youtube.com/channel/UCIT6glDN1AhIM3XLe5OF5Gg' target="_blank"><img alt='youtube' src='https://img.shields.io/badge/youtube-100000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=000000&color=F40F0F'/></a>
 <br>
-<a href='https://tryhackme.com/p/hetsoni' target="_blank"><img src="https://tryhackme-badges.s3.amazonaws.com/hetsoni.png" alt="TryHackMe">
+<a href='https://tryhackme.com/p/hetsoni' target="_blank"><img src="https://tryhackme-badges.s3.amazonaws.com/hetsoni.png" alt="TryHackMe"></a>
   
 <br />
   
@@ -47,8 +47,8 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=hetsonii&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
   
   
-![hetsonii's GitHub | Languages Over Time](https://stats.quine.sh/hetsonii/languages-over-time?theme=dark)
-![hetsonii's GitHub | Topics Over Time](https://stats.quine.sh/hetsonii/topics-over-time?theme=dark)
+<!-- ![hetsonii's GitHub | Languages Over Time](https://stats.quine.sh/hetsonii/languages-over-time?theme=dark)
+![hetsonii's GitHub | Topics Over Time](https://stats.quine.sh/hetsonii/topics-over-time?theme=dark) -->
   
 ### ✍️ Random Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
