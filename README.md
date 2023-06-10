@@ -6,10 +6,12 @@
 </div>
 
 <br />
-<img align="right" alt="ASmilyBun" width="250" margin="10" src="https://github.com/hetsonii/hetsonii/assets/75877010/0c391e38-6d18-426e-8022-053978428e5d">
 <!-- <img align="right" alt="ASmilyBun" width="250" margin="10" src="https://github.com/hetsonii/hetsonii/assets/75877010/cdd7d7aa-5b9c-4d91-a8ba-f6ab6b868ffc">  -->
 
 ## 🌐 Socials:
+
+<img align="right" alt="ASmilyBun" width="250" src="https://github.com/hetsonii/hetsonii/assets/75877010/0c391e38-6d18-426e-8022-053978428e5d">
+
 <a href='https://instagram.com/hetsonii' target="_blank"><img alt='instagram' src='https://img.shields.io/badge/instagram-100000?style=for-the-badge&logo=instagram&logoColor=white&labelColor=000000&color=D94662'/></a>
 <a href='https://www.linkedin.com/in/het-soni/' target="_blank"><img alt='linkedin' src='https://img.shields.io/badge/linkedin-100000?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000&color=0F79B1'/></a>
 <a href='https://twitter.com/hetsonii' target="_blank"><img alt='twitter' src='https://img.shields.io/badge/twitter-100000?style=for-the-badge&logo=twitter&logoColor=white&labelColor=000000&color=289EE7'/></a>
