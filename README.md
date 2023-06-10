@@ -51,20 +51,15 @@
 
 ## 📊 GitHub Stats:
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=hetsonii&show_icons=true&theme=tokyonight" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=hetsonii&theme=tokyonight" />
-</a>
+![Het's](https://github-readme-stats.vercel.app/api?username=hetsonii&show_icons=true&theme=tokyonight)
 <br /><br />
-
-<!-- ![](https://github-readme-stats.vercel.app/api?username=hetsonii&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/> -->
-<!-- ![](https://github-readme-streak-stats.herokuapp.com/?user=hetsonii&theme=dark&hide_border=false)<br/> -->
+![](https://github-readme-streak-stats.herokuapp.com?user=hetsonii&theme=tokyonight)
+<br /><br />
 ![Het's Most used langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hetsonii&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<br/><br />
 ![Het's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=hetsonii&theme=tokyonight&layout=compact)
-  
-  
+
+<!-- ![](https://github-readme-stats.vercel.app/api?username=hetsonii&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/> -->
+<!-- ![](https://github-readme-streak-stats.herokuapp.com/?user=hetsonii&theme=dark&hide_border=false)<br/> -->  
 <!-- ![hetsonii's GitHub | Languages Over Time](https://stats.quine.sh/hetsonii/languages-over-time?theme=dark)
 ![hetsonii's GitHub | Topics Over Time](https://stats.quine.sh/hetsonii/topics-over-time?theme=dark) -->
   
