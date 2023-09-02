@@ -12,33 +12,33 @@
 
 <img align="right" alt="ASmilyBun" width="250" src="https://github.com/hetsonii/hetsonii/assets/75877010/0c391e38-6d18-426e-8022-053978428e5d">
 
-<a href='https://instagram.com/hetsonii' target="_blank"><img alt='instagram' src='https://img.shields.io/badge/instagram-100000?style=for-the-badge&logo=instagram&logoColor=white&labelColor=000000&color=D94662'/></a>
-<a href='https://www.linkedin.com/in/het-soni/' target="_blank"><img alt='linkedin' src='https://img.shields.io/badge/linkedin-100000?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000&color=0F79B1'/></a>
-<a href='https://twitter.com/hetsonii' target="_blank"><img alt='twitter' src='https://img.shields.io/badge/twitter-100000?style=for-the-badge&logo=twitter&logoColor=white&labelColor=000000&color=289EE7'/></a>
-<a href='https://www.youtube.com/@hetsonii' target="_blank"><img alt='youtube' src='https://img.shields.io/badge/youtube-100000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=000000&color=F40F0F'/></a>
+<a href='https://instagram.com/hetsonii' target="_blank"><img alt='instagram' src='https://img.shields.io/badge/instagram-100000?style=for-the-badge&logo=instagram&logoColor=white&labelColor=000000&color=E4405F'/></a>
+<a href='https://www.linkedin.com/in/het-soni/' target="_blank"><img alt='linkedin' src='https://img.shields.io/badge/linkedin-100000?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000&color=0A66C2'/></a>
+<a href='https://twitter.com/hetsonii' target="_blank"><img alt='twitter' src='https://img.shields.io/badge/twitter-100000?style=for-the-badge&logo=twitter&logoColor=white&labelColor=000000&color=1D9BF0'/></a>
+<a href='https://www.youtube.com/@hetsonii' target="_blank"><img alt='youtube' src='https://img.shields.io/badge/youtube-100000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=000000&color=FF0000'/></a>
 <br>
 <a href='https://tryhackme.com/p/hetsoni' target="_blank"><img src="https://tryhackme-badges.s3.amazonaws.com/hetsoni.png" alt="TryHackMe"></a>
   
 <br />
   
 ## 👨‍💻 Tech Stack:
-<a href='https://www.w3schools.com/cpp' target="_blank"><img alt='cplusplus' src='https://img.shields.io/badge/C++-100000?style=for-the-badge&logo=cplusplus&logoColor=white&labelColor=000000&color=00427E'/></a>
-<a href='https://www.w3schools.com/c/' target="_blank"><img alt='c' src='https://img.shields.io/badge/C-100000?style=for-the-badge&logo=c&logoColor=white&labelColor=000000&color=035697'/></a> 
-<a href='https://www.microsoft.com/openjdk' target="_blank"><img alt='openjdk' src='https://img.shields.io/badge/java-100000?style=for-the-badge&logo=openjdk&logoColor=white&labelColor=black&color=e26e03'/></a>
-<a href='https://react.dev/' target="_blank"><img alt='react' src='https://img.shields.io/badge/Reactjs-100000?style=for-the-badge&logo=react&logoColor=white&labelColor=black&color=ffffff'/></a>
-<a href='https://www.gnu.org/software/bash/' target="_blank"><img alt='gnu-bash' src='https://img.shields.io/badge/bash-100000?style=for-the-badge&logo=gnu-bash&logoColor=white&labelColor=000000&color=4EAA25'/></a>
-<a href='https://docs.microsoft.com/en-us/powershell/' target="_blank"><img alt='powershell' src='https://img.shields.io/badge/powershell-100000?style=for-the-badge&logo=powershell&logoColor=white&labelColor=000000&color=256DB8'/></a> 
-<a href='https://pop.system76.com/' target="_blank"><img alt='vagrant' src='https://img.shields.io/badge/vagrant-100000?style=for-the-badge&logo=vagrant&logoColor=white&labelColor=000000&color=104CAC'/></a>
-<a href='https://www.kali.org/' target="_blank"><img alt='kali-linux' src='https://img.shields.io/badge/Kali_Linux-100000?style=for-the-badge&logo=kali-linux&logoColor=white&labelColor=black&color=black'/></a> 
+<a href='' target="_blank"><img alt='python' src='https://img.shields.io/badge/python-100000?style=for-the-badge&logo=python&logoColor=white&labelColor=black&color=3776AB'/></a>
+<a href='' target="_blank"><img alt='docker' src='https://img.shields.io/badge/docker-100000?style=for-the-badge&logo=docker&logoColor=white&labelColor=black&color=2496ED'/></a>
+<a href='' target="_blank"><img alt='amazonaws' src='https://img.shields.io/badge/aws-100000?style=for-the-badge&logo=amazonaws&logoColor=white&labelColor=black&color=232F3E'/></a>
+<a href='' target="_blank"><img alt='openjdk' src='https://img.shields.io/badge/java-100000?style=for-the-badge&logo=openjdk&logoColor=white&labelColor=black&color=e26e03'/></a>
+<a href='' target="_blank"><img alt='react' src='https://img.shields.io/badge/reactjs-100000?style=for-the-badge&logo=react&logoColor=white&labelColor=black&color=61DAFB'/></a>
+<a href='' target="_blank"><img alt='gnubash' src='https://img.shields.io/badge/BASH-100000?style=for-the-badge&logo=gnubash&logoColor=white&labelColor=black&color=4EAA25'/></a>
+<a href='' target="_blank"><img alt='powershell' src='https://img.shields.io/badge/POWERSHELl-100000?style=for-the-badge&logo=powershell&logoColor=white&labelColor=black&color=5391FE'/></a>
+<a href='https://github.com/shivamkapasia0' target="_blank"><img alt='kalilinux' src='https://img.shields.io/badge/Kali_Linux-100000?style=for-the-badge&logo=kalilinux&logoColor=white&labelColor=black&color=557C94'/></a>
 <br>
-<a href='canva.com' target="_blank"><img alt='canva' src='https://img.shields.io/badge/canva-100000?style=for-the-badge&logo=canva&logoColor=white&labelColor=000000&color=00C4CC'/></a>
-<a href='https://prezi.com/' target="_blank"><img alt='prezi' src='https://img.shields.io/badge/Prezi-100000?style=for-the-badge&logo=prezi&logoColor=white&labelColor=000000&color=5A99F7'/></a>
+<a href='https://github.com/shivamkapasia0' target="_blank"><img alt='canva' src='https://img.shields.io/badge/Canva-100000?style=for-the-badge&logo=canva&logoColor=white&labelColor=black&color=00C4CC'/></a>
   
   
 <br />
   
 ## 💻 Workspace Specs:
-<a href='' target="_blank"><img alt='asus' src='https://img.shields.io/badge/ROG-Strix_G15-100000?style=for-the-badge&logo=asus&logoColor=white&labelColor=000000&color=0071C5'/></a>
+<a href='' target="_blank"><img alt='kubuntu' src='https://img.shields.io/badge/kubuntu-100000?style=for-the-badge&logo=kubuntu&logoColor=white&labelColor=black&color=0079C1'/></a>
+<a href='' target="_blank"><img alt='republicofgamers' src='https://img.shields.io/badge/Rog-Strinx_G15-100000?style=for-the-badge&logo=republicofgamers&logoColor=white&labelColor=black&color=FF0029'/></a>
 <a href='' target="_blank"><img alt='amd' src='https://img.shields.io/badge/AMD-Ryzen_7 4800H-100000?style=for-the-badge&logo=amd&logoColor=white&labelColor=000000&color=ED1C24'/></a>
 <a href='' target="_blank"><img alt='nvidia' src='https://img.shields.io/badge/Nvidia-GTX_1650-100000?style=for-the-badge&logo=nvidia&logoColor=white&labelColor=000000&color=76B900'/></a>
 
