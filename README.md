@@ -29,18 +29,18 @@
 <a href='' target="_blank"><img alt='react' src='https://img.shields.io/badge/reactjs-100000?style=for-the-badge&logo=react&logoColor=white&labelColor=black&color=61DAFB'/></a>
 <a href='' target="_blank"><img alt='gnubash' src='https://img.shields.io/badge/BASH-100000?style=for-the-badge&logo=gnubash&logoColor=white&labelColor=black&color=4EAA25'/></a>
 <a href='' target="_blank"><img alt='powershell' src='https://img.shields.io/badge/POWERSHELl-100000?style=for-the-badge&logo=powershell&logoColor=white&labelColor=black&color=5391FE'/></a>
-<a href='https://github.com/shivamkapasia0' target="_blank"><img alt='kalilinux' src='https://img.shields.io/badge/Kali_Linux-100000?style=for-the-badge&logo=kalilinux&logoColor=white&labelColor=black&color=557C94'/></a>
+<a href='' target="_blank"><img alt='kalilinux' src='https://img.shields.io/badge/Kali_Linux-100000?style=for-the-badge&logo=kalilinux&logoColor=white&labelColor=black&color=557C94'/></a>
 <br>
-<a href='https://github.com/shivamkapasia0' target="_blank"><img alt='canva' src='https://img.shields.io/badge/Canva-100000?style=for-the-badge&logo=canva&logoColor=white&labelColor=black&color=00C4CC'/></a>
+<a href='' target="_blank"><img alt='canva' src='https://img.shields.io/badge/Canva-100000?style=for-the-badge&logo=canva&logoColor=white&labelColor=black&color=00C4CC'/></a>
   
   
 <br />
   
 ## 💻 Workspace Specs:
-<a href='' target="_blank"><img alt='kubuntu' src='https://img.shields.io/badge/kubuntu-100000?style=for-the-badge&logo=kubuntu&logoColor=white&labelColor=black&color=0079C1'/></a>
-<a href='' target="_blank"><img alt='republicofgamers' src='https://img.shields.io/badge/Rog-Strinx_G15-100000?style=for-the-badge&logo=republicofgamers&logoColor=white&labelColor=black&color=FF0029'/></a>
-<a href='' target="_blank"><img alt='amd' src='https://img.shields.io/badge/AMD-Ryzen_7 4800H-100000?style=for-the-badge&logo=amd&logoColor=white&labelColor=000000&color=ED1C24'/></a>
-<a href='' target="_blank"><img alt='nvidia' src='https://img.shields.io/badge/Nvidia-GTX_1650-100000?style=for-the-badge&logo=nvidia&logoColor=white&labelColor=000000&color=76B900'/></a>
+<a href='' target="_blank"><img alt='kubuntu' src='https://img.shields.io/badge/kubuntu-100000?style=for-the-badge&logo=kubuntu&labelColor=black&color=0079C1'/></a>
+<a href='' target="_blank"><img alt='republicofgamers' src='https://img.shields.io/badge/Rog-Strinx_G15-100000?style=for-the-badge&logo=republicofgamers&labelColor=black&color=FF0029'/></a>
+<a href='' target="_blank"><img alt='amd' src='https://img.shields.io/badge/AMD-Ryzen_7 4800H-100000?style=for-the-badge&logo=amd&labelColor=000000&color=ED1C24'/></a>
+<a href='' target="_blank"><img alt='nvidia' src='https://img.shields.io/badge/Nvidia-GTX_1650-100000?style=for-the-badge&logo=nvidia&labelColor=000000&color=76B900'/></a>
 
     
 <br />
