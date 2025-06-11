@@ -65,7 +65,7 @@ I am open to collaborations, discussions, and opportunities in security research
 <br />
   
   ## 🎧 Vibing To 
-  [![Spotify](https://spotify-now-playing-six-puce.vercel.app/api/spotify/?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/lss4xc96584lsajpj04d026tk)
+  [![Spotify](https://novatorem-spotify-now-playing.vercel.app/api/spotify/?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/lss4xc96584lsajpj04d026tk)
 
 
 ## 📊 GitHub Stats:
