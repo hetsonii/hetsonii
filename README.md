@@ -2,7 +2,25 @@
 <img align="right" alt="Programming" width="250" src="https://github.com/hetsonii/hetsonii/assets/75877010/ecf7a220-c5b9-46e5-a45d-ccfc2f80e168">
 
 <div align="left">
-  ⚡ Passionate INFJ Logician with Constant Development Trait, always seeking improvement and learning new things. I am pursuing BTech with specialization in Computer Science and Technology at Chandubhai S. Patel Institute Of Technology, Charusat University, Changa.<br><br>🌱 My passion for learning new IT technologies has me exploring Offensive Security, Computer Networks and Virtualization.<br><br>🔭 I like making 8 bit pixel art and I'm exploring ReactJS because I love frontend animations! <br> <br>💬 I love socializing! Ping me for a chat.
+🚀 Cybersecurity | Software Engineering | Automation
+</br></br>
+I am a passionate cybersecurity researcher and software engineer with expertise in security automation, cloud security, and attack surface management. My work spans penetration testing, secure software development, and infrastructure security, leveraging technologies like Python, Docker, AWS, and ELK Stack to enhance security operations.
+</br></br>
+🔹 Experience & Achievements:
+
+\- Developed automation tools improving incident response by 30% and vulnerability discovery by 40%.</br>
+\- Optimized GraphQL security for Cloudflare firewalls, reducing log processing overhead by 90%.</br>
+\- Led a multi-tool automation project, boosting attack surface management efficiency by 50%.</br>
+\- Designed a blockchain-based authentication framework (AAuth) to mitigate brute-force, injection, and account takeover attacks.</br>
+
+💡 Passions & Interests:</br>
+I thrive on solving complex security challenges and developing innovative solutions that improve cybersecurity resilience. My experience in Capture The Flag (CTF) challenges, security research, and cloud-native security solutions fuels my mission to bridge the gap between cybersecurity and automation.
+</br></br>
+🌍 Beyond Tech:</br>
+As a community leader and mentor, I have conducted cybersecurity workshops, led The Hackers Meetup Student Chapter, and contributed to CyberNGO by enhancing cybercrime detection pipelines. I believe in empowering the next generation of cybersecurity professionals through education and hands-on experience. I've trained over 300 primary teachers to defend themselves, their families and teach their students about modern cybercrime.
+</br></br>
+🚀 Looking Ahead:</br>
+I am open to collaborations, discussions, and opportunities in security research, cloud security, and security automation. Let’s connect and work towards securing the digital world!
 </div>
 
 <br />
@@ -18,6 +36,7 @@
 <a href='https://www.youtube.com/@hetsonii' target="_blank"><img alt='youtube' src='https://img.shields.io/badge/youtube-100000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=000000&color=FF0000'/></a>
 <br>
 <a href='https://tryhackme.com/p/hetsoni' target="_blank"><img src="https://tryhackme-badges.s3.amazonaws.com/hetsoni.png" alt="TryHackMe"></a>
+
   
 <br />
   
