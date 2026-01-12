@@ -75,7 +75,7 @@ I am open to collaborations, discussions, and opportunities in security research
 ![Het's coding stats](https://streak-stats.demolab.com?user=hetsonii&theme=tokyonight&hide_border=true)
 <br /><br />
 Stats since June 10, 2023<br/>
-![Het's Most used langs](https://wakatime.com/share/@hetsonii/84402696-066a-4c39-9a6c-f256aabea819.png)<br/><br />
+![Het's Most used langs](https://wakatime.com/share/@hetsonii/8e31202a-16d0-4067-a6b4-75923565fafd.png)<br/><br />
 
 <!-- ![](https://github-readme-stats.vercel.app/api?username=hetsonii&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/> -->
 <!-- ![](https://github-readme-streak-stats.herokuapp.com/?user=hetsonii&theme=dark&hide_border=false)<br/> -->  
